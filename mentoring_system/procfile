@@ -1,0 +1,1 @@
+web: gunicorn MENTORING_SYSTEM.wsgi --log-file -
